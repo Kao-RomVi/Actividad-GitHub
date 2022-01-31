@@ -6,4 +6,5 @@
 de la función de Github, una herramienta muy útil, la cual
 se debe de aprovechar.
 
-Se puede seguir agregando información
+Se puede insertar una imagen
+![Imagen](img/rilakkumaaaa.png)
